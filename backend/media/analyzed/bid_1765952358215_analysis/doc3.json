@@ -1,0 +1,34 @@
+{
+  "plain_text": "--- PAGE 1 ---\nList of categories where trials are allowed:\n Simulators\n Ship's propulsion machinery, radars and sensors, naviga(cid:415)on equipment, communica(cid:415)on equipment, RO\nplants, compressors, cranes, boats, Pilotless Target aircra(cid:332), pumps, dehumidifiers etc.\n Aircra(cid:332) engine/generator/flight deck equipment/air condi(cid:415)oning system/radars\n Tank engine/ generator/ air condi(cid:415)oning system\n Bullet Proof Helmet, Bullet Resistance Jacket\n Drones\n All-Terrain Vehicles (ATV)\n Communica(cid:415)on Equipment for Defense:\nRadio Sets:\no HF/VHF/FM Manpack Radio\no Vehicle Radio Set\nTac(cid:415)cal Communica(cid:415)on Systems:\no So(cid:332)ware Defined Radio (SDR) Systems\no VHF/UHF Tac(cid:415)cal Communica(cid:415)on Systems\no Handheld Satellite Phones (e.g., Iridium)\no Combat Net Radio (CNR) Systems\nSatellite Communica(cid:415)on Systems:\no Very Small Aperture Terminal (VSAT) Systems\no Satellite Phones\no Mobile Satellite Communica(cid:415)on Systems\nCommand and Control Systems:\no Ba(cid:425)lefield Management Systems (BMS)\no Tac(cid:415)cal Data Links\no Encryp(cid:415)on Devices (e.g., VINBAX)\no Surveillance and Reconnaissance Communica(cid:415)on:\no Unmanned Aerial Vehicle (UAV) Communica(cid:415)on Systems\no Ground Control Sta(cid:415)ons (GCS) for UAVs\no Remote Video Terminals (RVTs)\nElectronic Warfare (EW) Communica(cid:415)on:\no EW Communica(cid:415)on Jamming Systems\no Communica(cid:415)on Intelligence (COMINT) Systems\nNetwork Infrastructure:\no Field Deployable Communica(cid:415)on Nodes\no Tac(cid:415)cal Communica(cid:415)on Switches\no Mobile Communica(cid:415)on Shelters\nNaviga(cid:415)on and Posi(cid:415)oning Systems:\no GPS Receivers\no Naviga(cid:415)on Systems for Vehicles and Personnel\nSpecialized Communica(cid:415)on Equipment:\no Underwater Communica(cid:415)on Systems\no Special Forces Communica(cid:415)on Gear\no Mountain Warfare Communica(cid:415)on Equipment\n Contamina(cid:415)on Monitor\n\n--- PAGE 2 ---\n Fiber Reinforced Plas(cid:415)c Boat with Motor (RIBs)\n Bukhari Improved Version\n Fire Figh(cid:415)ng Equipment's as per DGQA specifica(cid:415)ons\n Vic(cid:415)m Loca(cid:415)on System with Breaching System\n HDPE Boats\n Pontoon Boats\n Medical equipment\n Engineering and Mining Equipment for Bomb Disposal Units:\n Modular protec(cid:415)on vehicles\n High Al(cid:415)tude Clothing including Snow Boots",
+  "tables": [],
+  "images": [],
+  "links": [],
+  "ai_summary": {
+    "headings": [
+      "Categories for Trials",
+      "Communication Equipment for Defense",
+      "Navigation and Positioning Systems",
+      "Specialized Communication Equipment",
+      "Additional Equipment"
+    ],
+    "bullets": [
+      "Simulators and ship's propulsion machinery",
+      "Aircraft and tank engines, generators, and air conditioning systems",
+      "Bulletproof helmets and jackets",
+      "Drones and all-terrain vehicles",
+      "Various communication equipment including radios and satellite systems",
+      "Command and control systems with encryption and surveillance capabilities",
+      "Electronic warfare communication systems",
+      "Network infrastructure for field deployment",
+      "Navigation systems for vehicles and personnel",
+      "Specialized communication equipment for underwater and mountain warfare",
+      "Contamination monitors",
+      "Fiber reinforced plastic boats and other marine equipment",
+      "Firefighting equipment and victim location systems",
+      "Medical and engineering equipment for bomb disposal",
+      "Modular protection vehicles and high altitude clothing"
+    ],
+    "summary": "The document outlines various categories where trials are permitted, focusing on defense and specialized equipment. It includes simulators, propulsion machinery, and communication systems for defense, such as radios and satellite communication. Additionally, it covers navigation systems, electronic warfare communication, and specialized equipment for underwater and mountain operations. Other categories include contamination monitors, marine equipment, firefighting tools, medical and engineering equipment for bomb disposal, and protective clothing for high altitudes."
+  },
+  "source_url": "https://assets-bg.gem.gov.in/resources/upload/shared_doc/list-of-categories-where-trials-are-allowed_1712126171.pdf"
+}

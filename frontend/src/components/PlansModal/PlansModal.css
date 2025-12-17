@@ -1,0 +1,136 @@
+.pricing-wrapper {
+  padding: 40px 20px;
+  text-align: center;
+  font-family: Arial, sans-serif;
+}
+
+.gradient-badge {
+ background: linear-gradient(90deg, #595757, #f0f0f0);
+  color: white;
+  padding: 8px 18px;
+  border-radius: 12px;
+  font-weight: bold;
+  display: inline-block;
+}
+
+.pricing-header p {
+  color: #555;
+  margin: 10px 0 15px;
+}
+
+.icons-row {
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+  color: #666;
+  font-size: 14px;
+  flex-wrap: wrap;
+}
+
+.section-subtitle {
+  text-align: left;
+  margin: 30px 0 20px;
+  font-size: 18px;
+  font-weight: bold;
+}
+
+.pricing-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+  gap: 20px;
+}
+
+.pricing-card {
+  position: relative;
+  border-radius: 15px;
+  padding: 25px;
+  text-align: left;
+  cursor: pointer;
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.pricing-card:hover {
+  transform: translateY(-6px);
+  box-shadow: 0 6px 16px rgba(0, 0, 0, 0.15);
+}
+
+.pricing-card h3 {
+  margin: 0;
+  font-size: 20px;
+  display: flex;
+  align-items: center;
+  gap: 5px;
+}
+
+.icon {
+  font-size: 22px;
+}
+
+.tenders {
+  margin: 8px 0;
+  font-size: 14px;
+  color: #444;
+}
+
+.price {
+  font-size: 22px;
+  margin: 10px 0;
+}
+
+.price strong {
+  font-size: 26px;
+  color: black;
+}
+
+.per {
+  font-size: 14px;
+  color: #555;
+  margin-left: 4px;
+}
+
+.save {
+  background: #c6ffe0;
+  color: #008f4c;
+  padding: 6px 12px;
+  border-radius: 8px;
+  font-size: 14px;
+  font-weight: bold;
+  margin: 10px 0;
+  display: inline-block;
+}
+
+.tag {
+  position: absolute;
+  top: 12px;
+  right: 12px;
+  background: linear-gradient(90deg, #6a00ff, #ff00cc);
+  color: white;
+  padding: 5px 10px;
+  font-size: 12px;
+  border-radius: 10px;
+  font-weight: bold;
+}
+
+.pricing-card ul {
+  list-style: none;
+  padding: 0;
+  margin-top: 15px;
+}
+
+.pricing-card ul li {
+  margin: 6px 0;
+  color: #333;
+  font-size: 14px;
+}
+
+/* Responsive */
+@media (max-width: 768px) {
+  .pricing-header p {
+    font-size: 14px;
+  }
+
+  .icons-row {
+    gap: 10px;
+    font-size: 12px;
+  }
+}

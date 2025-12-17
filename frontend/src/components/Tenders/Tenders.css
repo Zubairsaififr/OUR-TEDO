@@ -1,0 +1,214 @@
+.Cont {
+    display: flex;
+    height: 95%;
+    overflow: hidden;
+    height: 115vh;
+    
+    /* border: 2px solid green; */
+   
+}
+
+#sbox {
+    color: white;
+    border: 2px solid white;
+    border-radius: 25px;
+    padding: 10px;
+    width: 80%;
+    margin-left: 100px;
+    margin-top: 8px;
+}
+#sb{
+    padding: 2px;
+}
+#card2{
+   
+    height: 98vh;
+    position: relative;
+    top:85px;
+    width: 800px;
+    overflow-x: scroll;
+
+}
+#gfgf{
+    display: flex;
+    justify-content: center;
+    position: relative;
+    border-radius: 40px;
+    color: white;
+    background-color: blue;
+   
+    height: 60px;
+    width: 160px;
+    cursor: pointer;
+    margin-bottom: 20px;
+    
+}
+.Search {
+    background: linear-gradient(to left, rgb(255, 255, 255), rgb(0, 0, 0));
+    /* border: 2px solid red; */
+    height: 10%;
+    width: 1085px;
+    position: absolute;
+}
+
+.page {
+    /* border: 2px solid red; */
+    display: flex;
+}
+
+
+
+#add{
+    border:1px solid rgb(255, 255, 255);
+   
+    padding: 10px;
+    height: 30px;
+    border-radius: 10px;
+    margin-top: 5px;
+    width: 150px;
+    margin-left: 45px;
+    margin-top: 10px;
+    font-size: 15px;
+    background-color: rgb(93, 93, 164);
+}
+#add:hover{
+    cursor: pointer;
+}
+
+#sb{
+    border: 1px solid black;
+    border-radius:10px;
+}
+
+#depart{
+    margin-top:10px;
+    margin-bottom:10px;
+}
+
+#dep{
+    border: 1px solid black;
+    border-radius: 10px;
+    padding: 2px;
+}
+
+.card1 {
+    /* border:2px solid green; */
+    height: 81vh;
+    border-radius: 10px;
+    box-shadow: 0px 0px 6px rgb(55, 55, 55);
+    background-color: black;
+    align-items: center;
+    /* text-align: center; */
+    /* font-weight: bold; */
+    padding: 10px;
+    margin-top: 100px;
+    font-size: 18px;
+    margin-left: 10px;
+    width: 250px;
+    color: white;
+    overflow-x: hidden;
+}
+
+
+
+#deps{
+    border-radius: 10px;
+    margin-top: 5px;
+    background-color: rgb(93, 93, 164);
+    width: 150px;
+    margin-left: 45px;
+}
+#uhuhu{
+    border-radius: 10px;
+    margin-top: 20px;
+    background-color: rgb(93, 93, 164);
+    width: 150px;
+    height: 50px;
+    margin-left: 45px;
+}
+
+#drop{
+    border: 1px solid rgb(255, 255, 255);
+    height: 45px;
+    
+}
+
+#deps:hover{
+    cursor:pointer;
+}
+
+#icons {
+    display: flex;
+}
+
+/* Tenders.css */
+
+#drop {
+  background-color: #1a1a1a;
+  color: #ffffff;
+  border: 1px solid #333;
+  border-radius: 4px;
+  padding: 8px 12px;
+  font-size: 14px;
+ 
+  appearance: none;
+  cursor: pointer;
+  outline: none;
+}
+
+#drop:hover {
+  background-color: #252525;
+}
+
+#drop:focus {
+ 
+  box-shadow: 0 0 5px rgba(0, 123, 255, 0.5);
+}
+
+/* Style the dropdown options */
+#drop option {
+  background-color: #2c2c2c;
+  color: #ffffff;
+  padding: 8px;
+}
+
+#drop option:hover {
+  background-color: #3c3c3c;
+}
+
+/* Custom arrow for the select (since appearance: none removes default) */
+#drop::after {
+  content: '▼';
+  position: absolute;
+  top: 50%;
+  right: 10px;
+  transform: translateY(-50%);
+  pointer-events: none;
+}
+
+/* Container for the state div to ensure proper positioning */
+.card1 div {
+  position: relative;
+  margin: 10px 0;
+}
+
+/* Ensure the selected state display fits nicely */
+.card1 div .selected-state {
+  margin-top: 5px;
+  font-size: 14px;
+  color: #ffffff;
+}
+
+.card1 div .selected-state span {
+  font-weight: bold;
+}
+
+.card1 div .selected-state button {
+  margin-left: 10px;
+  background: none;
+  border: none;
+  color: #ff4444;
+  cursor: pointer;
+  font-size: 16px;
+  padding: 0;
+}

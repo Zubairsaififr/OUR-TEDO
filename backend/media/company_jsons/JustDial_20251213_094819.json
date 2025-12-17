@@ -1,0 +1,99 @@
+{
+    "company_id": 13,
+    "created_by": "ovinenterprises.login@gmail.com",
+    "created_at": "2025-12-13T09:48:19.730701+00:00",
+    "company_details": {
+        "id": 13,
+        "directors": [],
+        "owners": [],
+        "members": [],
+        "partners": [],
+        "gst": "",
+        "udyam": "",
+        "tan": "",
+        "bank_statement": "",
+        "company_name": "JustDial",
+        "company_type": "LLP",
+        "major_activity": "SERVICES",
+        "nature_of_business": {
+            "services": [
+                "Menpower"
+            ],
+            "products": []
+        },
+        "company_address": "H-304,   Tower HQ Delhi Sadar 201001",
+        "gstin_no": "06AAKCN0989J1ZY",
+        "gst_certificate": "/media/company_docs/gst/GST_lcE2OD1.pdf",
+        "msme_no": "UDYAM-HR-03-0111365",
+        "msme_certificate": "/media/company_docs/msme/Uddham_5mroXvc.pdf",
+        "enterprise_type": "MICRO",
+        "designation": "",
+        "years_of_experience": "",
+        "annual_turnover": "",
+        "contact_email": "",
+        "contact_phone": "",
+        "account_number": "88990077889989",
+        "ifsc_code": "HDFR0077880",
+        "account_holder_name": "Megatron",
+        "bank_name": "HDFC",
+        "bank_phone": "889989987779",
+        "cancel_cheque": "/media/company_docs/cheques/Outlook-5i1i4sz2_iNu0lQo.png",
+        "pan_card": "/media/company_docs/pan/PAN_CARD_0F37p39.pdf",
+        "incorporation_certificate": "/media/company_docs/incorp/Incorpuration_Cer_m1NS3bS.pdf",
+        "eft_mandate": "",
+        "oem_turnover_certificate": "",
+        "bidder_turnover_certificate": "",
+        "networth_certificate": "",
+        "audited_balance_sheet": "",
+        "purchase_document": "",
+        "undertaking_blacklisting": "",
+        "quality_certificate": "",
+        "epf_registration": "/media/company_docs/epf/EPF_DFSY3tG.pdf",
+        "esic_registration": "/media/company_docs/esic/ESIC_Jlx6Sud.pdf",
+        "factory_license": "",
+        "product_catalog": "",
+        "created_at": "2025-12-13T15:18:19.730701+05:30",
+        "updated_at": "2025-12-13T15:18:19.730750+05:30",
+        "created_by": 3
+    },
+    "documents": {
+        "gst_certificate": {
+            "filename": "GST_lcE2OD1.pdf",
+            "path": "company_docs/gst/GST_lcE2OD1.pdf"
+        },
+        "msme_certificate": {
+            "filename": "Uddham_5mroXvc.pdf",
+            "path": "company_docs/msme/Uddham_5mroXvc.pdf"
+        },
+        "cancel_cheque": {
+            "filename": "Outlook-5i1i4sz2_iNu0lQo.png",
+            "path": "company_docs/cheques/Outlook-5i1i4sz2_iNu0lQo.png"
+        },
+        "pan_card": {
+            "filename": "PAN_CARD_0F37p39.pdf",
+            "path": "company_docs/pan/PAN_CARD_0F37p39.pdf"
+        },
+        "incorporation_certificate": {
+            "filename": "Incorpuration_Cer_m1NS3bS.pdf",
+            "path": "company_docs/incorp/Incorpuration_Cer_m1NS3bS.pdf"
+        },
+        "eft_mandate": null,
+        "oem_turnover_certificate": null,
+        "bidder_turnover_certificate": null,
+        "networth_certificate": null,
+        "audited_balance_sheet": null,
+        "purchase_document": null,
+        "undertaking_blacklisting": null,
+        "quality_certificate": null,
+        "epf_registration": {
+            "filename": "EPF_DFSY3tG.pdf",
+            "path": "company_docs/epf/EPF_DFSY3tG.pdf"
+        },
+        "esic_registration": {
+            "filename": "ESIC_Jlx6Sud.pdf",
+            "path": "company_docs/esic/ESIC_Jlx6Sud.pdf"
+        },
+        "factory_license": null,
+        "product_catalog": null
+    }
+}

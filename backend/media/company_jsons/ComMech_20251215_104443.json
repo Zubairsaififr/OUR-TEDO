@@ -1,0 +1,99 @@
+{
+    "company_id": 3,
+    "created_by": "ovinenterprises.login@gmail.com",
+    "created_at": "2025-11-06T08:21:02.881112+00:00",
+    "company_details": {
+        "id": 3,
+        "directors": [],
+        "owners": [],
+        "members": [
+            {
+                "id": 1,
+                "name": "Akshit Bidang",
+                "email": "Bidang@gmail.com",
+                "phone": "9350126677"
+            }
+        ],
+        "partners": [],
+        "gst": "",
+        "udyam": "",
+        "tan": "",
+        "bank_statement": "",
+        "company_name": "ComMech",
+        "company_type": "LLP",
+        "major_activity": "MANUFACTURE",
+        "nature_of_business": {
+            "services": [
+                "Security"
+            ],
+            "products": [
+                "Ministry"
+            ]
+        },
+        "company_address": "heheh",
+        "gstin_no": "79798797879799",
+        "gst_certificate": "/media/company_docs/gst/GST__ebHp7S2.pdf",
+        "msme_no": "reterfdgdf",
+        "msme_certificate": "/media/company_docs/msme/Print___Udyam_Registration_Certificate_2_1_0YuKxeT.pdf",
+        "enterprise_type": "SMALL",
+        "designation": "",
+        "years_of_experience": "",
+        "annual_turnover": "",
+        "contact_email": "",
+        "contact_phone": "",
+        "account_number": "123456789023456",
+        "ifsc_code": "HDFC009900",
+        "account_holder_name": "Zubair",
+        "bank_name": "HDFC",
+        "bank_phone": "3456785676",
+        "cancel_cheque": "/media/company_docs/cheques/Outlook-5i1i4sz2_K2vdLMt.png",
+        "pan_card": "/media/company_docs/pan/PAN_CARD_MTZnf6H.pdf",
+        "incorporation_certificate": "",
+        "eft_mandate": "",
+        "oem_turnover_certificate": "",
+        "bidder_turnover_certificate": "",
+        "networth_certificate": "",
+        "audited_balance_sheet": "",
+        "purchase_document": "",
+        "undertaking_blacklisting": "",
+        "quality_certificate": "",
+        "epf_registration": "",
+        "esic_registration": "",
+        "factory_license": "",
+        "product_catalog": "",
+        "created_at": "2025-11-06T13:51:02.881112+05:30",
+        "updated_at": "2025-12-15T16:14:43.606526+05:30",
+        "created_by": 3
+    },
+    "documents": {
+        "gst_certificate": {
+            "filename": "GST__ebHp7S2.pdf",
+            "path": "company_docs/gst/GST__ebHp7S2.pdf"
+        },
+        "msme_certificate": {
+            "filename": "Print___Udyam_Registration_Certificate_2_1_0YuKxeT.pdf",
+            "path": "company_docs/msme/Print___Udyam_Registration_Certificate_2_1_0YuKxeT.pdf"
+        },
+        "cancel_cheque": {
+            "filename": "Outlook-5i1i4sz2_K2vdLMt.png",
+            "path": "company_docs/cheques/Outlook-5i1i4sz2_K2vdLMt.png"
+        },
+        "pan_card": {
+            "filename": "PAN_CARD_MTZnf6H.pdf",
+            "path": "company_docs/pan/PAN_CARD_MTZnf6H.pdf"
+        },
+        "incorporation_certificate": null,
+        "eft_mandate": null,
+        "oem_turnover_certificate": null,
+        "bidder_turnover_certificate": null,
+        "networth_certificate": null,
+        "audited_balance_sheet": null,
+        "purchase_document": null,
+        "undertaking_blacklisting": null,
+        "quality_certificate": null,
+        "epf_registration": null,
+        "esic_registration": null,
+        "factory_license": null,
+        "product_catalog": null
+    }
+}

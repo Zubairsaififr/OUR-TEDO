@@ -1,0 +1,38 @@
+.preview-parent {
+  display: flex;
+  width: 100%;
+}
+
+.preview-container {
+  margin-left: 260px;
+  padding: 30px;
+  width: 100%;
+}
+
+.preview-html {
+  background: #ffffff;
+  padding: 20px;
+  border-radius: 10px;
+  min-height: 400px;
+  box-shadow: 0 3px 12px rgba(0,0,0,0.1);
+  line-height: 1.6;
+}
+
+.preview-actions {
+  margin-top: 20px;
+  display: flex;
+  gap: 15px;
+}
+
+.btn-download, .btn-preview, .btn-back {
+  padding: 10px 20px;
+  border: none;
+  background: #0066ff;
+  color: white;
+  border-radius: 6px;
+  cursor: pointer;
+}
+
+.btn-back {
+  background: #444;
+}

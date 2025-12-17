@@ -1,0 +1,33 @@
+#cperent{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 470px;
+    height: 110vh;
+    margin-top: 30px;
+    gap: 20px;
+    
+    
+   
+}
+#hakunamatata{
+    background-color: rgba(255, 255, 255, 0.685);
+    border: 3px solid rgba(183, 178, 178, 0.821);
+    position: relative;
+    top: 20px;
+    padding: 50px;
+    border-radius: 10px;
+    position: relative;
+    left: 30px;
+    box-shadow: 2px 2px 30px black;
+    width: 500px;
+   
+}
+
+#mnhibtaunga{
+    position: relative;
+    top: 20px;
+    height: 50px;
+    cursor: pointer;
+    border: 1px solid;
+}

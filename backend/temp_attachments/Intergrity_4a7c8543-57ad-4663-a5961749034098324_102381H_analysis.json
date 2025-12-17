@@ -1,0 +1,42 @@
+{
+  "bid_no": null,
+  "start_date": null,
+  "end_date": null,
+  "bid_type": null,
+  "items": [],
+  "total_quantity": null,
+  "turnover_req": {
+    "last_3_years": null,
+    "ITR": "not required",
+    "other": null
+  },
+  "experience_req": {
+    "amount": null,
+    "basis": null,
+    "details": "The document does not specify an experience requirement. It discusses compliance with the Integrity Pact and oversight by Independent External Monitors."
+  },
+  "major_docs": [],
+  "undertakings": [],
+  "exemptions": [],
+  "buyer_terms": [],
+  "eligibility_criteria": "For all tenders above the specified threshold, implementing the Integrity Pact is mandatory. The tender package must suitably adapt these provisions.",
+  "document_submission_req": "The bidder must enter into an Integrity Pact with NHPC at the time of submission of bid.",
+  "tender_dates": {
+    "pre_bid_meeting": null,
+    "clarification_end": null,
+    "other": null
+  },
+  "emd_or_fee": {
+    "emd_amount": null,
+    "tender_fee": null,
+    "exemptions": "The document does not specify any exemptions regarding EMD or tender fees. Focus is on the Integrity Pact compliance."
+  },
+  "important_terms": [
+    "Integrity Pact is applicable for procurement of works above Rs. 100 Lakhs, goods above Rs. 7 Lakhs, and services above Rs. 15 Lakhs.",
+    "Independent External Monitors are appointed to oversee Integrity Pact compliance.",
+    "The Integrity Pact details are available on the NHPC's website and should be regularly checked for updates.",
+    "In the event of an IEM's unavailability, the remaining IEMs continue oversight until further notification."
+  ],
+  "full_text_summary": "The document is focused on the implementation of an Integrity Pact for tenders above specified thresholds for works, goods, and services. Independent External Monitors oversee compliance. Specifics of the procurement process, including bid submissions, are tied to adherence to this pact. Tender package conditions must be updated to include these provisions, and regular updates are available on NHPC's official website.",
+  "attached_documents": []
+}

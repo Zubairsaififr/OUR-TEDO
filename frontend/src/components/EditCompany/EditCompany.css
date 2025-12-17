@@ -1,0 +1,121 @@
+.editc-containerc {
+  display: flex;
+
+  height: 100vh; 
+  background-color: #a19f9fa9; 
+ 
+  overflow: hidden; 
+
+  align-items: flex-start; 
+}
+
+.editc-cardc {
+  background-color: #ffffff; 
+  border-radius: 12px; 
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.08);
+  padding: 35px 45px; 
+  width: 100%;
+  max-width: 600px; 
+  animation: fadeIn 0.5s ease-out;
+  margin-left: 240px;
+  
+  max-height: calc(100% - 40px);
+  
+
+  overflow-y: scroll; 
+  
+  
+  margin-top: 20px; 
+}
+
+
+.editc-cardc .textc {
+  font-size: 28px; 
+  font-weight: 700;
+  color: #333333;
+  margin-bottom: 30px;
+  text-align: center;
+}
+
+
+.formc-groupc {
+  margin-bottom: 22px; 
+}
+
+
+.formc-labelc {
+  display: block;
+
+  margin-bottom: 8px; 
+  font-size: 16px;
+  font-weight: 600; 
+  color: #444444; }
+
+.formc-inputc {
+  width: 100%;
+  padding: 12px 15px; 
+  border: 1px solid #e0e0e0; 
+  border-radius: 8px; 
+  font-size: 16px;
+  color: #333333;
+  background-color: #fcfcfc; 
+  transition: border-color 0.3s ease, box-shadow 0.3s ease;
+  
+}
+
+
+.formc-inputc:focus {
+  border-color: #575694;
+  outline: none;
+  box-shadow: 0 0 0 3px rgba(87, 86, 148, 0.2);
+}
+
+
+.formc-inputc::placeholder {
+  color: #999999;
+}
+
+
+.submitc-btnc {
+  width: 100%;
+  padding: 14px 20px;
+  background:linear-gradient(#414141,rgb(138, 138, 138));
+  color: #ffffff; 
+  border-radius: 8px; 
+  font-size: 18px; 
+  font-weight: 700; 
+  cursor: pointer;
+  transition: background-color 0.3s ease, transform 0.2s ease;
+  margin-top: 20px; 
+}
+
+/* Submit Button Hover effect */
+.submitc-btnc:hover {
+  background-color: #434274; /* Thoda darker shade on hover */
+  transform: translateY(-2px); /* Slight lift effect */
+}
+
+/* Error and Loading states (optional but good practice) */
+.editc-containerc p {
+  text-align: center;
+  font-size: 18px;
+  color: #666;
+  padding: 20px;
+}
+
+.editc-containerc p[style*="color: red"] {
+  color: #d9534f !important; /* Red color for errors */
+  font-weight: 600;
+}
+
+/* Keyframe for fade-in animation */
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+    transform: translateY(20px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}

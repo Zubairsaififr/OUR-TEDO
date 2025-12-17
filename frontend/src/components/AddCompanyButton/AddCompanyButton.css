@@ -1,0 +1,71 @@
+body{
+  background-color: rgba(200, 194, 194, 0.793);
+}
+#nobita{
+  display: flex;
+  
+}
+
+.company-container {
+  width: 100%;
+  padding: 50px;
+  font-family: "Arial", sans-serif;
+  
+
+}
+
+.company-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+
+}
+
+.company-title {
+  font-size: 22px;
+  font-weight: bold;
+  color: #000000;
+}
+
+.company-title span {
+  background: linear-gradient(90deg, #595757, #f0f0f0);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.btn-gradient {
+  padding: 10px 20px;
+  border: none;
+  border-radius: 8px;
+  background: linear-gradient(90deg, #595757, #f0f0f0);
+  color: #000000;
+  font-size: 14px;
+  font-weight: 500;
+  cursor: pointer;
+  transition: transform 0.2s ease-in-out;
+}
+
+.btn-gradient:hover {
+  transform: scale(1.05);
+}
+
+.company-card {
+  margin-top: 30px;
+  background: #fff;
+  border-radius: 12px;
+  padding: 40px 20px;
+  text-align: center;
+  box-shadow: 0px 2px 6px rgba(0,0,0,0.1);
+}
+
+.company-empty {
+  font-size: 18px;
+  font-weight: 500;
+  color: #222;
+}
+
+.company-subtext {
+  font-size: 14px;
+  color: #555;
+  margin: 8px 0 20px;
+}

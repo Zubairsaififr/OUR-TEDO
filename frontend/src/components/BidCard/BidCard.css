@@ -1,0 +1,220 @@
+.bid-container {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  justify-content: center;
+  padding: 20px;
+  overflow-x: hidden;
+  width: 100%;
+}
+.popup-overlay {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: rgba(0,0,0,0.5);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  z-index: 999;
+}
+
+.popup-box {
+  background: #fff;
+  border-radius: 12px;
+  padding: 25px;
+  width: 400px;
+  box-shadow: 0 0 15px rgba(0,0,0,0.2);
+  text-align: center;
+}
+
+.company-select {
+  width: 100%;
+  padding: 10px;
+  border-radius: 8px;
+  margin-top: 10px;
+  border: 1px solid #ccc;
+}
+
+.popup-buttons {
+  margin-top: 20px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.popup-buttons button {
+  padding: 8px 15px;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+}
+
+.popup-buttons button:first-child {
+  background: #ccc;
+}
+
+.popup-buttons button:last-child {
+  background: #007bff;
+  color: white;
+}
+
+
+/* Pagination styles */
+.pagination {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+  margin-top: 20px;
+  padding: 10px;
+  font-family: Arial, sans-serif;
+}
+
+.pagination button {
+  background-color: #f8f9fa;
+  border: 1px solid #ddd;
+  padding: 8px 12px;
+  cursor: pointer;
+  border-radius: 5px;
+  transition: background-color 0.2s;
+}
+
+.pagination button:hover:not(:disabled) {
+  background-color: #e9ecef;
+}
+
+.pagination button.active {
+  background-color: #007bff;
+  color: #fff;
+  border-color: #007bff;
+}
+
+.pagination button:disabled {
+  background-color: #f8f9fa;
+  color: #6c757d;
+  cursor: not-allowed;
+  opacity: 0.6;
+}
+
+/* For ellipsis in pagination */
+.pagination button[style*="cursor: default"] {
+  background-color: transparent;
+  border: none;
+  cursor: default;
+  font-weight: bold;
+  color: #6c757d;
+}
+
+.pagination button[style*="cursor: default"]:hover {
+  background-color: transparent;
+}
+
+ #jhjh {
+  padding: 5px 10px;
+  border: 1px solid #007bff;
+  background: white;
+  color: #007bff;
+  cursor: pointer;
+  border-radius: 4px;
+}
+
+#jhjh.active {
+  background: #007bff;
+  color: white;
+}
+
+#jhjh:disabled {
+  opacity: 0.5;
+  cursor: not-allowed;
+}
+
+
+#kalooo{
+  /* border: 2px solid black; */
+  width: 15%;
+  background-color: rgb(0, 140, 255);
+  color: whitesmoke;
+  border-radius: 10px;
+  position:relative;
+  left:600px;
+  height: 20%;
+  padding: 5px;
+  cursor: pointer;
+}
+.bid-card {
+  background: #fff;
+
+  height: 220px;
+  border-radius: 16px;
+  box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+  padding: 20px;
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+
+}
+
+.bid-dates{
+  position: relative;
+  
+  margin-top: -110px;
+  left:430px;
+}
+.bid-card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 6px 16px rgba(0,0,0,0.15);
+}
+
+.bid-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-wrap: wrap;
+  margin-bottom: 10px;
+}
+
+.corrigendum-link {
+  color: #007bff;
+  text-decoration: none;
+  font-weight: 500;
+}
+
+.corrigendum-link:hover {
+  text-decoration: underline;
+}
+
+.bid-body {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.bid-left, .bid-right, .bid-dates {
+  margin-bottom: 10px;
+}
+
+.blue-text {
+  color: #007bff;
+  font-weight: 600;
+}
+.neela-text{
+  color: rgb(0, 110, 255);
+}
+.blue-text:hover{
+  color:gray;
+}
+.green-text {
+  color: #28a745;
+}
+
+.orange-text {
+  color: #ff9800;
+}
+
+@media (max-width: 600px) {
+  .bid-header {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+}
+
+

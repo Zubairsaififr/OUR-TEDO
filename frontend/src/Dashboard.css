@@ -1,0 +1,247 @@
+/* #logo span {
+  position: relative;
+  top: 40px;
+  display: flex;
+  justify-content: center;
+} */
+
+/* #desktopmenu {
+  position: relative;
+  top: 70px;
+  height: 580px;
+  width: 340px;
+
+} */
+
+/* #logout {
+  width: 340px;
+  position: relative;
+  top: 20px;
+  gap: 30px;
+
+} */
+
+/* #lbtn {
+  margin-left: 10px;
+  margin-bottom: 110px;
+
+} */
+
+/* #lbtn:hover {
+  background-color: #000000;
+  padding: 10px;
+  border-radius: 20px;
+  width: 320px;
+} */
+
+/* #dmenu {
+  position: relative;
+  top: 20px;
+  gap: 30px;
+  left: 10px;
+} */
+
+#cardhome {
+  position: relative;
+  top: 50px;
+}
+
+/* #dmenu a:hover {
+  background-color: #000000;
+  padding: 10px;
+  border-radius: 20px;
+  width: 320px;
+
+} */
+
+
+#parent {
+  flex: 1;
+  /* sidebar ke baad bachi jagah le lega */
+  display: grid;
+  grid-template-columns: repeat(7, 1fr);
+  grid-template-rows: 80px auto;
+  gap: 0;
+}
+
+#div1 {
+  
+  grid-column: 1 / span 1;
+  grid-row: 1 / span 2;
+  /* grid-row: 1 / span 2; */
+  /* height: 120vh; */
+  /* width: 415px; */
+  /* background-color: black; */
+}
+
+
+.navbar {
+  background-color: #f8f9fa;
+  padding: 1rem;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.containero {
+  max-width: 1200px;
+  margin: 0 auto;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.navbar-nav {
+  display: flex;
+  list-style: none;
+}
+
+.navbar-toggler {
+  display: none;
+  background: none;
+  border: none;
+  font-size: 1.5rem;
+  cursor: pointer;
+  color: white;
+}
+
+
+
+#div2 {
+  grid-column: 2 / span 7;
+  grid-row: 1;
+  background: linear-gradient(to left, rgb(255, 255, 255), rgb(0, 0, 0));
+  width: 100%;
+}
+
+/* Sidebar open/close
+.sidebar2-open #div1 {
+  display: block;
+}
+
+.sidebar-closed #div1 {
+  display: none;
+}*/
+
+/* Desktop layout default */
+#parent {
+  display: grid;
+  grid-template-columns: repeat(7, 1fr);
+  grid-template-rows: 80px auto;
+  gap: 0;
+  height: 100vh;
+  overflow: hidden;
+}
+
+
+.div3 {
+  position: relative;
+  
+  margin-top: 5px;
+  grid-column: 2 / span 3;
+  grid-row: 2;
+
+  /* dusra row */
+  background-color: rgb(181, 182, 182);
+  overflow: scroll;
+}
+
+#div4 {
+  grid-column: 5 / span 3;
+  grid-row: 2;
+  padding: 20px;
+  background-color: rgb(255, 255, 255);
+  
+  overflow: scroll;
+  height: 100%;
+
+}
+
+
+@media (max-width: 768px) {
+  .navbar-toggler {
+    display: block;
+  }
+
+  .navbar-nav {
+    display: none;
+    flex-direction: column;
+    position: absolute;
+    top: 60px;
+    left: 0;
+    width: 100%;
+    background-color: #f8f9fa;
+    padding: 1rem;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+
+  .navbar-nav.active {
+    display: flex;
+  }
+
+  .nav-item {
+    margin: 0.5rem 0;
+  }
+}
+
+/* 📱 Mobile layout */
+@media (max-width: 768px) {
+  #parent.mobile-layout {
+
+    display: flex;
+    flex-direction: column;
+    height: auto;
+    overflow-y: auto;
+    
+  }
+
+  #div2,
+  .div3,
+  #div4 {
+    width: 100%;
+    grid-column: unset !important;
+    grid-row: unset !important;
+  }
+
+  #div2 {
+    position: relative;
+    top: 0px;
+  }
+
+  #desktopmenu {
+    width: 60%;
+    position: relative;
+    left: -30px;
+  }
+
+  /* #div1 {
+  grid-column: 1 / span 2;
+  grid-row: 1 / span 2;
+  height: 110vh;
+  width: 515px;
+  background-color: black;
+  } */
+  /* #logout {
+  width: 60%;
+  position: relative;
+} */
+#dmenu a:hover {
+  background-color: #000000;
+  padding: 10px;
+  border-radius: 20px;
+  width: 280px;
+
+}
+
+  .sidebar-closed #div1 {
+    transform: translateX(-100%);
+  }
+
+  .sidebar-open #div1 {
+    transform: translateX(0);
+  }
+
+  .navbar {
+    position: fixed;
+    top: 0;
+    z-index: 1000;
+  }
+}

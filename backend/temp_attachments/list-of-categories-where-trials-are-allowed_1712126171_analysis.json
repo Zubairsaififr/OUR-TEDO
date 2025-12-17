@@ -1,0 +1,152 @@
+{
+  "bid_no": null,
+  "start_date": null,
+  "end_date": null,
+  "bid_type": null,
+  "items": [
+    {
+      "name": "Simulators",
+      "type_of_work": "Supply",
+      "quantity": null,
+      "specs": null
+    },
+    {
+      "name": "Ship's propulsion machinery, radars and sensors, navigation equipment, communication equipment, RO plants, compressors, cranes, boats, Pilotless Target aircraft, pumps, dehumidifiers",
+      "type_of_work": "Supply",
+      "quantity": null,
+      "specs": null
+    },
+    {
+      "name": "Aircraft engine/generator/flight deck equipment/air conditioning system/radars",
+      "type_of_work": "Supply",
+      "quantity": null,
+      "specs": null
+    },
+    {
+      "name": "Tank engine/ generator/ air conditioning system",
+      "type_of_work": "Supply",
+      "quantity": null,
+      "specs": null
+    },
+    {
+      "name": "Bullet Proof Helmet, Bullet Resistance Jacket",
+      "type_of_work": "Supply",
+      "quantity": null,
+      "specs": null
+    },
+    {
+      "name": "Drones",
+      "type_of_work": "Supply",
+      "quantity": null,
+      "specs": null
+    },
+    {
+      "name": "All-Terrain Vehicles (ATV)",
+      "type_of_work": "Supply",
+      "quantity": null,
+      "specs": null
+    },
+    {
+      "name": "Communication Equipment for Defense",
+      "type_of_work": "Supply",
+      "quantity": null,
+      "specs": "Radio Sets: HF/VHF/FM Manpack Radio, Vehicle Radio Set; Tactical Communication Systems: Software Defined Radio (SDR) Systems, VHF/UHF Tactical Communication Systems, Handheld Satellite Phones (e.g., Iridium), Combat Net Radio (CNR) Systems; Satellite Communication Systems: Very Small Aperture Terminal (VSAT) Systems, Satellite Phones, Mobile Satellite Communication Systems; Command and Control Systems: Battlefield Management Systems (BMS), Tactical Data Links, Encryption Devices (e.g., VINBAX); Surveillance and Reconnaissance Communication: Unmanned Aerial Vehicle (UAV) Communication Systems, Ground Control Stations (GCS) for UAVs, Remote Video Terminals (RVTs); Electronic Warfare (EW) Communication: EW Communication Jamming Systems, Communication Intelligence (COMINT) Systems; Network Infrastructure: Field Deployable Communication Nodes, Tactical Communication Switches, Mobile Communication Shelters; Navigation and Positioning Systems: GPS Receivers, Navigation Systems for Vehicles and Personnel; Specialized Communication Equipment: Underwater Communication Systems, Special Forces Communication Gear, Mountain Warfare Communication Equipment"
+    },
+    {
+      "name": "Contamination Monitor",
+      "type_of_work": "Supply",
+      "quantity": null,
+      "specs": null
+    },
+    {
+      "name": "Fiber Reinforced Plastic Boat with Motor (RIBs)",
+      "type_of_work": "Supply",
+      "quantity": null,
+      "specs": null
+    },
+    {
+      "name": "Bukhari Improved Version",
+      "type_of_work": "Supply",
+      "quantity": null,
+      "specs": null
+    },
+    {
+      "name": "Fire Fighting Equipment's as per DGQA specifications",
+      "type_of_work": "Supply",
+      "quantity": null,
+      "specs": null
+    },
+    {
+      "name": "Victim Location System with Breaching System",
+      "type_of_work": "Supply",
+      "quantity": null,
+      "specs": null
+    },
+    {
+      "name": "HDPE Boats",
+      "type_of_work": "Supply",
+      "quantity": null,
+      "specs": null
+    },
+    {
+      "name": "Pontoon Boats",
+      "type_of_work": "Supply",
+      "quantity": null,
+      "specs": null
+    },
+    {
+      "name": "Medical equipment",
+      "type_of_work": "Supply",
+      "quantity": null,
+      "specs": null
+    },
+    {
+      "name": "Engineering and Mining Equipment for Bomb Disposal Units",
+      "type_of_work": "Supply",
+      "quantity": null,
+      "specs": null
+    },
+    {
+      "name": "Modular protection vehicles",
+      "type_of_work": "Supply",
+      "quantity": null,
+      "specs": null
+    },
+    {
+      "name": "High Altitude Clothing including Snow Boots",
+      "type_of_work": "Supply",
+      "quantity": null,
+      "specs": null
+    }
+  ],
+  "total_quantity": null,
+  "turnover_req": {
+    "last_3_years": null,
+    "ITR": null,
+    "other": null
+  },
+  "experience_req": {
+    "amount": null,
+    "basis": null,
+    "details": null
+  },
+  "major_docs": [],
+  "undertakings": [],
+  "exemptions": [],
+  "buyer_terms": [],
+  "eligibility_criteria": null,
+  "document_submission_req": null,
+  "tender_dates": {
+    "pre_bid_meeting": null,
+    "clarification_end": null,
+    "other": null
+  },
+  "emd_or_fee": {
+    "emd_amount": null,
+    "tender_fee": null,
+    "exemptions": null
+  },
+  "important_terms": [],
+  "full_text_summary": "The document outlines a list of categories where trials are allowed, including various simulators, propulsion machinery for ships, aircraft equipment, drones, communication systems, and specialized vehicles and clothing for defense and high-altitude use. It elaborates on specific communication equipment like radio sets, tactical communication systems, and more. However, details on bid number, dates, financial and experience requirements, and buyer terms are missing.",
+  "attached_documents": []
+}

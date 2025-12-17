@@ -1,0 +1,142 @@
+{
+  "bid_no": null,
+  "start_date": null,
+  "end_date": null,
+  "bid_type": null,
+  "items": [
+    {
+      "name": "M.S. Pipes 80 mm dia",
+      "type_of_work": "Supply",
+      "quantity": 70,
+      "specs": "ISI marked I.S. 1239 'C' class pipe including all fitting like anchor, fastener, bends, elbow, toes, coupling flange, paint-primer etc. with welding work"
+    },
+    {
+      "name": "M.S. Pipes 100 mm dia",
+      "type_of_work": "Supply",
+      "quantity": 190,
+      "specs": "ISI marked I.S. 1239 'C' class pipe including all fitting like anchor, fastener, bends, elbow, toes, coupling flange, paint-primer etc. with welding work"
+    },
+    {
+      "name": "M.S. Pipes 150 mm dia",
+      "type_of_work": "Supply",
+      "quantity": 1600,
+      "specs": "ISI marked I.S. 1239 'C' class pipe including all fitting like anchor, fastener, bends, elbow, toes, coupling flange, paint-primer etc. with welding work"
+    },
+    {
+      "name": "Air release valve 25 mm dia",
+      "type_of_work": "Supply",
+      "quantity": 6,
+      "specs": null
+    },
+    {
+      "name": "Pressure Gauges with valves",
+      "type_of_work": "Supply",
+      "quantity": 29,
+      "specs": "Gun metal/brass valves and siphon complete"
+    },
+    {
+      "name": "Butterfly Valve 80 mm dia",
+      "type_of_work": "Supply",
+      "quantity": 29,
+      "specs": "Including necessary companion flanges, bolts and nuts complete"
+    },
+    {
+      "name": "Butterfly Valve 100 mm dia",
+      "type_of_work": "Supply",
+      "quantity": 8,
+      "specs": "Including necessary companion flanges, bolts and nuts complete"
+    },
+    {
+      "name": "Butterfly Valve 150 mm dia",
+      "type_of_work": "Supply",
+      "quantity": 10,
+      "specs": "Including necessary companion flanges, bolts and nuts complete"
+    },
+    {
+      "name": "Double Hose Box",
+      "type_of_work": "Supply",
+      "quantity": 29,
+      "specs": "MS - Wall mounting type in 750mm X 600mm X 250mm size with glass covered double door with lock and key arrangements as per required"
+    },
+    {
+      "name": "RRL Hose Pipe",
+      "type_of_work": "Supply",
+      "quantity": 54,
+      "specs": "63mm dia 15 mtr. long rubberized fabric lined hose ISI Marked IS: 636:88 including Delivery Hose coupling male & female SS 2.5\"(63mm), instantaneous 63mm X 63mm size & SS Binding as per required"
+    },
+    {
+      "name": "Standard Short size SS Branch pipe",
+      "type_of_work": "Supply",
+      "quantity": 29,
+      "specs": "With SS nozzle 20mm nominal bore outlet with standard instantaneous type 63mm dia coupling"
+    },
+    {
+      "name": "Single Headed Oblique Type SS Fire Hydrant Valve",
+      "type_of_work": "Supply",
+      "quantity": 29,
+      "specs": "2.5\"(63mm), 80mm N.B. Flanged inlet, with 63mm Female inst.ISI Marked.Outle with Blank Cap and Chain"
+    },
+    {
+      "name": "First aid fire hose reel",
+      "type_of_work": "Supply, installation, testing and commissioning",
+      "quantity": 10,
+      "specs": "Comprising 20 mm dia 30 mtr. long reinforced rubber tubing conforming to IS: 444 Type II/thermoplastic reinforced hose reel tubing conforming to IS :12585 Type with Shuttoff Nozzle Gunmetal & Hose Drum as per required"
+    },
+    {
+      "name": "Ball Valve Cast Iron 25 mm dia",
+      "type_of_work": "Supply",
+      "quantity": 14,
+      "specs": "As per required"
+    },
+    {
+      "name": "Wrapping coating under ground pipe",
+      "type_of_work": "Supply",
+      "quantity": 125,
+      "specs": null
+    },
+    {
+      "name": "Concrete block for holding of 150mm pipeline",
+      "type_of_work": "Supply",
+      "quantity": 600,
+      "specs": "Including c-clap, anchor bolt etc (size 1.00Lx1.00Wx2.00H foot)"
+    },
+    {
+      "name": "250mm dia Hume NP3 RCC pipe",
+      "type_of_work": "Supply",
+      "quantity": 10,
+      "specs": "With collors for road crossing"
+    }
+  ],
+  "total_quantity": null,
+  "turnover_req": {
+    "last_3_years": null,
+    "ITR": "not specified",
+    "other": "not specified"
+  },
+  "experience_req": {
+    "amount": null,
+    "basis": null,
+    "details": "Experience requirements not specified"
+  },
+  "major_docs": [],
+  "undertakings": [],
+  "exemptions": [],
+  "buyer_terms": [],
+  "eligibility_criteria": "Eligibility criteria not explicitly detailed",
+  "document_submission_req": "Document submission requirements not specified",
+  "tender_dates": {
+    "pre_bid_meeting": null,
+    "clarification_end": null,
+    "other": "Tender dates not provided"
+  },
+  "emd_or_fee": {
+    "emd_amount": null,
+    "tender_fee": null,
+    "exemptions": "Exemption details not specified"
+  },
+  "important_terms": [
+    "Subtotal and GST information included as part of cost breakdown"
+  ],
+  "full_text_summary": "This document outlines the supply and installation requirements for various fire safety and piping materials such as M.S. Pipes of various diameters, valves, hoses, and hydrant systems. It includes detailed descriptions and quantities for individual items but lacks specific details on financial, experience, eligibility criteria, and document submission requirements.",
+  "attached_documents": []
+}

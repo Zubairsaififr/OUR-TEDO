@@ -1,0 +1,546 @@
+#ten_conatian{
+  display: flex;
+  position: fixed;
+ 
+}
+.participation-container {
+  padding: 20px;
+  max-width: 100%;
+  margin: 0;
+  font-family: "Poppins", sans-serif;
+  position: relative;
+  width: 100%;
+  height: 100%;
+  background-color: #fdfefe;
+  overflow: scroll;
+  background-image:
+    radial-gradient(circle, rgba(180, 190, 210, 0.3) 2px, transparent 1px);
+  background-size: 18px 18px; 
+ 
+  
+}
+
+
+#mid_mainh {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  gap: 40px;
+  width: 100%;
+  margin-top: 20px;
+  
+}
+
+/* LEFT SECTION */
+#left_wala {
+  flex: 1;      /* Left auto expands */
+  border-right: 1px solid gray ;
+  padding-right: 10px;
+}
+
+/* RIGHT SECTION */
+#right_wala { 
+  flex-direction: column;  /* Top align */
+  height: auto;
+
+  width: 25%;
+}
+
+
+.header {
+  text-align: center;
+  margin-bottom: 25px;
+  border-bottom: 2px solid #e5e7eb;
+  padding-bottom: 10px;
+  
+}
+
+.header h2 {
+  color: #1e3a8a;
+  font-size: 26px;
+  margin-bottom: 5px;
+}
+
+.bid-number {
+  font-size: 18px;
+  color: #374151;
+  font-weight: 500;
+}
+
+.bid-details-card {
+  background: #f9fafb;
+  border-radius: 12px;
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+  padding: 25px;
+  margin-bottom: 20px;
+  transition: all 0.3s ease;
+  display: flex;
+  left: 0px;
+  width: 100%;
+}
+
+.bid-details-card:hover {
+  transform: scale(1.01);
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+}
+
+.bid-info p {
+  margin: 8px 0;
+  color: #333;
+  line-height: 1.4;
+}
+
+.green {
+  color: #16a34a;
+  font-weight: 600;
+}
+
+.orange {
+  color: #ea580c;
+  font-weight: 600;
+}
+
+.buttons {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 15px;
+  flex-wrap: wrap;
+}
+
+
+/* ===== ParticipationForm - Sub Documents styling ===== */
+
+.sub-docs {
+  margin-top: 18px;
+  padding: 14px;
+  border-radius: 10px;
+  background: linear-gradient(180deg, rgba(255,255,255,0.03), rgba(255,255,255,0.01));
+  box-shadow: 0 6px 18px rgba(16,24,40,0.04);
+  border: 1px solid rgba(255,255,255,0.04);
+}
+
+/* Heading */
+.sub-docs h3 {
+  margin: 0 0 10px 0;
+  font-size: 1.05rem;
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  color: #111827; /* dark text */
+}
+
+/* List layout */
+.sub-docs ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 8px;
+}
+
+/* Each item */
+.sub-docs li {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 12px;
+  padding: 8px 10px;
+  border-radius: 8px;
+  transition: background .15s ease, transform .06s ease;
+  background: rgba(0,0,0,0.01);
+}
+
+/* Link inside item */
+.sub-docs a {
+  color: #0f62fe; /* blue link */
+  text-decoration: none;
+  font-weight: 500;
+  word-break: break-all;
+  max-width: calc(100% - 110px); /* leave space for controls */
+  display: inline-block;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+/* Hover effect for item */
+.sub-docs li:hover {
+  background: rgba(15,98,254,0.04);
+  transform: translateY(-1px);
+}
+
+/* Small controls container (view/download) */
+.sub-docs .doc-controls {
+  display: flex;
+  gap: 8px;
+  align-items: center;
+}
+
+/* Small icon-like buttons */
+.sub-docs .doc-btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  padding: 6px 8px;
+  border-radius: 8px;
+  border: 1px solid rgba(15,98,254,0.08);
+  background: rgba(15,98,254,0.03);
+  color: #0f62fe;
+  cursor: pointer;
+  font-size: 0.85rem;
+  text-decoration: none;
+}
+
+.sub-docs {
+  margin-top: 25px;
+  background: #111;
+  border-radius: 10px;
+  padding: 15px;
+  color: #fff;
+  height: 700px;
+  width: 72%;
+  border: 2px solid red;  
+}
+
+.sub-docs h3 {
+  margin-bottom: 10px;
+  color: #00bcd4;
+}
+
+.sub-docs ul {
+  list-style: none;
+  padding: 0;
+}
+
+.sub-docs li {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  background: #1e1e1e;
+  margin: 8px 0;
+  padding: 10px;
+  border-radius: 8px;
+}
+
+.doc-badge {
+  background: #ff9800;
+  color: #fff;
+  font-weight: bold;
+  padding: 3px 8px;
+  border-radius: 4px;
+  margin-right: 10px;
+}
+
+.doc-btn {
+  background: #00bcd4;
+  color: white;
+  padding: 5px 10px;
+  border-radius: 5px;
+  text-decoration: none;
+  margin-left: 8px;
+  transition: 0.3s;
+}
+
+.doc-btn:hover {
+  background: #0097a7;
+}
+
+
+.sub-docs .doc-btn:hover {
+  background: rgba(15,98,254,0.09);
+  transform: translateY(-1px);
+}
+
+/* Filename / type badge on left (small) */
+.sub-docs .doc-badge {
+  margin-right: 8px;
+  font-size: 0.72rem;
+  padding: 4px 6px;
+  border-radius: 6px;
+  background: rgba(0,0,0,0.04);
+  color: #374151;
+  display: inline-block;
+}
+
+/* If URL is long, show tooltip on hover with full url */
+.sub-docs a[title] {
+  position: relative;
+}
+
+.sub-docs a[title]:hover::after {
+  content: attr(title);
+  position: absolute; 
+  left: 0;
+  top: 120%;
+  white-space: normal;
+  max-width: 40rem;
+  padding: 8px 10px;
+  border-radius: 6px;
+  background: #111827;
+  color: white;
+  font-size: 0.78rem;
+  box-shadow: 0 6px 20px rgba(0,0,0,0.2);
+  z-index: 50;
+}
+------------ */
+
+.analysis-modal-overlay{
+  position: fixed;
+  top: 300px;
+  left: 500px;
+  inset: 0;                   
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: rgba(11, 19, 30, 0.55); 
+  z-index: 9999;
+  -webkit-backdrop-filter: blur(3px);
+  backdrop-filter: blur(3px);
+  padding: 20px;
+}
+
+/* card */
+.analysis-modal {
+  width: 360px;
+  max-width: calc(100% - 40px);
+  background: linear-gradient(180deg, #ffffff 0%, #f6fbff 100%);
+  border-radius: 14px;
+  box-shadow: 0 12px 40px rgba(2, 10, 30, 0.45);
+  padding: 22px;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  align-items: center;
+}
+
+/* subtle variant when analyzing (optional class 'analyzing') */
+.analysis-modal.analyzing {
+  border: 1px solid rgba(0,123,255,0.12);
+}
+
+
+
+
+
+
+
+
+.action-buttons {
+  margin-top: 25px;
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+  justify-content: center;
+  
+ 
+}
+
+.action-buttons button {
+  padding: 10px 18px;
+  border-radius: 8px;
+  background: #007bff;
+  border: none;
+  color: white;
+  font-weight: 600;
+  cursor: pointer;
+}
+
+.action-buttons button:hover {
+  opacity: 0.85;
+}
+
+
+/* loader container (square) */
+.spinner {
+  position: relative;
+  width: 88px;
+  height: 88px;
+  display: inline-block;
+  margin: 6px 0 2px;
+}
+
+/* outer ring */
+.spinner::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  border-radius: 50%;
+  border: 6px solid rgba(0, 123, 255, 0.12);
+  box-sizing: border-box;
+}
+
+/* rotating arc */
+.spinner::after {
+  content: "";
+  position: absolute;
+  inset: 0;
+  border-radius: 50%;
+  border: 6px solid transparent;
+  border-top-color: #007bff;
+  border-right-color: #007bff;
+  box-sizing: border-box;
+  transform-origin: 50% 50%;
+  animation: spin 1.05s cubic-bezier(.65,.05,.36,1) infinite;
+}
+
+/* small inner dot for depth */
+.spinner .inner-dot {
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+  width: 14px;
+  height: 14px;
+  border-radius: 50%;
+  background: rgba(0, 123, 255, 0.95);
+  box-shadow: 0 4px 12px rgba(0,123,255,0.18);
+}
+
+/* text */
+.analysis-modal h3 {
+  margin: 0;
+  font-size: 18px;
+  color: #042a4a;
+  font-weight: 600;
+}
+
+.analysis-modal p {
+  margin: 0;
+  font-size: 13px;
+  color: #4b6b88;
+}
+
+/* animation */
+@keyframes spin {
+  0%   { transform: rotate(0deg); }
+  100% { transform: rotate(360deg); }
+}
+
+
+
+
+
+
+.doc-card.not-available {
+  opacity: 0.8;
+  background: #080f29;
+  border: 1px dashed #564dff;
+}
+
+.doc-btn.disabled {
+  background: #ccc !important;
+  cursor: not-allowed !important;
+  color: #666 !important;
+}
+
+.docs-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+  gap: 20px;
+  margin-top: 15px;
+}
+
+
+
+/* Responsive: make list 2 columns on wider screens */
+@media (min-width: 900px) {
+  .sub-docs ul {
+    grid-template-columns: 1fr;
+  }
+}
+
+/* Small tweak to separate pdf-viewer and sub-docs visually */
+.pdf-viewer {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  border: #15803d 2px solid;
+  position: relative;
+  
+  margin-bottom: 20px;
+}
+
+/* Ensure iframe and sub-docs don't overflow container */
+.pdf-viewer iframe {
+  border-radius: 8px;
+  border: 1px solid rgba(0,0,0,0.06);
+}
+
+/* Accessibility focus */
+.sub-docs a:focus,
+.sub-docs .doc-btn:focus {
+  outline: 3px solid rgba(15,98,254,0.18);
+  outline-offset: 2px;
+}
+
+
+.buttons button {
+  background-color: #2563eb;
+  color: white;
+  border: none;
+  padding: 10px 16px;
+  border-radius: 8px;
+  cursor: pointer;
+  margin: 5px;
+  transition: 0.3s;
+}
+
+.buttons button:hover {
+  background-color: #1e40af;
+}
+
+.download-btn {
+  background-color: #16a34a;
+}
+
+.download-btn:hover {
+  background-color: #15803d;
+}
+
+.pdf-viewer {
+  margin-top: 20px;
+  border-radius: 10px;
+  overflow: hidden;
+  box-shadow: 0 0 10px rgba(0,0,0,0.2);
+}
+
+.no-doc {
+  text-align: center;
+  font-size: 18px;
+  color: #b91c1c;
+  margin-top: 15px;
+}
+
+/* ✅ Responsive */
+@media (max-width: 768px) {
+  .bid-details-card {
+    padding: 15px;
+  }
+
+  .buttons {
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .buttons button {
+    width: 100%;
+    text-align: center;
+  }
+
+  .header h2 {
+    font-size: 22px;
+  }
+
+  .bid-number {
+    font-size: 16px;
+  }
+}
+/* responsiveness: reduce size on small screens */
+@media (max-width: 420px) {
+  .analysis-modal { width: 92%; padding: 16px; }
+  .spinner { width: 68px; height: 68px; }
+  .spinner::before, .spinner::after { border-width: 5px; }
+  .spinner .inner-dot { width: 12px; height: 12px; }
+}

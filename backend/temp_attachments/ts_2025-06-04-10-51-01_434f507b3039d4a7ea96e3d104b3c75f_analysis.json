@@ -1,0 +1,116 @@
+{
+  "bid_no": "1032629/2024/SEC -PHMM -TNK",
+  "start_date": null,
+  "end_date": null,
+  "bid_type": null,
+  "items": [
+    {
+      "name": "M.S. Pipes of class 'C'",
+      "type_of_work": "Supply",
+      "quantity": "various diameters (80 mm, 100 mm, 150 mm)",
+      "specs": "Conforming to IS 1239/3589 with all fittings like anchor, fastener, bends, elbow, toes, coupling flange, reducer including primer and 2 coats of post office red enamel paint with welding work."
+    },
+    {
+      "name": "Air release valve",
+      "type_of_work": "Supply",
+      "quantity": "25 mm dia",
+      "specs": "Gun Metal, sufficient rating with control valve and fixing accessories complete."
+    },
+    {
+      "name": "Pressure Gauges",
+      "type_of_work": "Supply",
+      "quantity": "0-14kg/cm2 range",
+      "specs": "With gun metal / brass valves and siphon tube and control valve."
+    },
+    {
+      "name": "Cast Iron Butterfly Valves",
+      "type_of_work": "Supply",
+      "quantity": "various diameters (80 mm, 100 mm, 150 mm)",
+      "specs": "PN 1.6 with matching flange nuts, bolts, washers, and gaskets as per IS 13095 with ISI make."
+    },
+    {
+      "name": "Hose Box",
+      "type_of_work": "Supply",
+      "quantity": "1",
+      "specs": "750mm X 600mm X 250mm, made out of MS sheet 36 gauge with double glazed doors of 4mm thick with lock and key arrangements, capable of storing 2 Nos. of fire hose of 15 meters and one branch pipe, power coated."
+    },
+    {
+      "name": "RRL Hose Pipe",
+      "type_of_work": "Supply",
+      "quantity": "15 meters long, dia 63mm",
+      "specs": "As per IS 636 type 'B' ISI mark with male & female heavy-duty stainless steel coupling with ISI mark and copper binding, rubberized fabric lined hose."
+    },
+    {
+      "name": "63mm dia SS Branch pipe",
+      "type_of_work": "Supply",
+      "quantity": "1",
+      "specs": "With SS nozzle 20mm nominal bore outlet with standard instantaneous type 63mm dia coupling."
+    },
+    {
+      "name": "Single Headed Oblique Type SS Fire Hydrant Valve",
+      "type_of_work": "Supply",
+      "quantity": "63mm dia, with 80mm N.B. flanged inlet",
+      "specs": "Stainless coupling as per IS903 with ISI Mark, complete with wheel and chain blank cap and confirming to IS 5290."
+    },
+    {
+      "name": "First type aid fire hose reel",
+      "type_of_work": "Supply",
+      "quantity": "1",
+      "specs": "20 mm dia, 30 mtr. long reinforced rubber tubing conforming to IS: 444 Type II or thermoplastic reinforced hose reel tubing conforming to IS :12585 Type with Shutoff Nozzle Gunmetal & Hose Drum."
+    },
+    {
+      "name": "Ball Valve Cast Iron",
+      "type_of_work": "Supply",
+      "quantity": "25 mm dia",
+      "specs": "As per requirement."
+    },
+    {
+      "name": "Anticorrosive Wrapping & coating treatment",
+      "type_of_work": "Service",
+      "quantity": null,
+      "specs": "For underground pipes as per relevant standard."
+    },
+    {
+      "name": "Concrete block for pipeline holding",
+      "type_of_work": "Supply",
+      "quantity": null,
+      "specs": "For holding 150 mm pipeline including c-clamp, anchor bolt etc (size 1.00L x 1.00W x 2.00H foot)."
+    },
+    {
+      "name": "250mm dia Hume NP3 RCC pipe",
+      "type_of_work": "Supply",
+      "quantity": null,
+      "specs": "With collars for road crossing."
+    }
+  ],
+  "total_quantity": null,
+  "turnover_req": {
+    "last_3_years": null,
+    "ITR": null,
+    "other": null
+  },
+  "experience_req": {
+    "amount": null,
+    "basis": null,
+    "details": null
+  },
+  "major_docs": [],
+  "undertakings": [],
+  "exemptions": [],
+  "buyer_terms": [],
+  "eligibility_criteria": null,
+  "document_submission_req": null,
+  "tender_dates": {
+    "pre_bid_meeting": null,
+    "clarification_end": null,
+    "other": null
+  },
+  "emd_or_fee": {
+    "emd_amount": null,
+    "tender_fee": null,
+    "exemptions": null
+  },
+  "important_terms": [],
+  "full_text_summary": "The bid document outlines the supply of various fire safety equipment and associated components, particularly focusing on pipes, valves, hoses, and fittings meeting specified IS standards. Technical specifications for each item detail materials and construction requirements, suggesting a high degree of compliance with industrial regulations. Comprehensive details are given for each equipment piece, ensuring clarity on size, material, and application standards. The document lacks explicit details on financial and experience requirements, document submission guidelines, and specific buyer terms or exemptions.",
+  "attached_documents": []
+}

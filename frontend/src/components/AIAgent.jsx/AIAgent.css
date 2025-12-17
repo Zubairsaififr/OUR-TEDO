@@ -1,0 +1,231 @@
+/* =============================
+   AI Agent Page Styles
+   ============================= */
+.aiperent{
+ display: flex;
+  position: relative;
+  width: 100%;
+  height: 100%;
+  background-color: #fdfefe;
+  overflow: scroll;
+  background-image:
+    radial-gradient(circle, rgba(180, 190, 210, 0.3) 2px, transparent 1px);
+  background-size: 18px 18px; 
+}
+.ai-container {
+  padding: 24px;
+  background: #c5b1b1;
+  border-radius: 16px;
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.08);
+  font-family: "Poppins", sans-serif;
+  transition: all 0.3s ease;
+  width: 800px;
+  margin-left: 160px;
+  height: 90vh;
+  margin-top: 30px;
+  
+}
+
+.ai-container h2 {
+  text-align: center;
+  color: #1a1a1a;
+  font-size: 1.8rem;
+  margin-bottom: 24px;
+  letter-spacing: 0.5px;
+}
+
+/* =============================
+   File Upload Section
+   ============================= */
+.file-label {
+  display: block;
+  background: #f6f8fb;
+  border: 2px dashed #bbb;
+  border-radius: 12px;
+  text-align: center;
+  padding: 20px;
+  color: #555;
+  font-weight: 500;
+  cursor: pointer;
+  transition: 0.3s ease;
+}
+
+.file-label:hover {
+  background: #eef3ff;
+  border-color: #5b77e8;
+  color: #2d4ef7;
+}
+
+.file-label input {
+  display: none;
+}
+
+/* =============================
+   Company Dropdown
+   ============================= */
+.company-select {
+  margin-top: 20px;
+}
+
+.company-select label {
+  display: block;
+  font-weight: 600;
+  color: #333;
+  margin-bottom: 8px;
+}
+
+.company-select select {
+  width: 100%;
+  padding: 10px 12px;
+  border-radius: 8px;
+  border: 1.5px solid #ccc;
+  font-size: 1rem;
+  outline: none;
+  transition: 0.3s ease;
+}
+
+.company-select select:focus {
+  border-color: #4b6bfb;
+  box-shadow: 0 0 0 3px rgba(75, 107, 251, 0.2);
+}
+
+/* =============================
+   Textarea
+   ============================= */
+textarea {
+  width: 100%;
+  margin-top: 16px;
+  padding: 12px;
+  border: 1.5px solid #ccc;
+  border-radius: 8px;
+  font-size: 1rem;
+  resize: vertical;
+  font-family: "Poppins", sans-serif;
+  transition: border-color 0.3s ease;
+}
+
+textarea:focus {
+  border-color: #4b6bfb;
+  box-shadow: 0 0 0 3px rgba(75, 107, 251, 0.15);
+}
+
+/* =============================
+   Submit Button
+   ============================= */
+#ll {
+  width: 100%;
+ background: linear-gradient(90deg, #595757, #f0f0f0);
+  color: white;
+  border: none;
+  border-radius: 8px;
+  padding: 12px;
+  font-size: 1.05rem;
+  font-weight: 600;
+  cursor: pointer;
+  transition: all 0.3s ease;
+}
+
+#ll:hover {
+ background: linear-gradient(90deg, #f0f0f0, #595757);
+  transform: translateY(-5px);
+}
+
+#ll:disabled {
+  background: #a4b0f6;
+  cursor: not-allowed;
+}
+
+/* =============================
+   Error Box
+   ============================= */
+.error-box {
+  background: #ffe5e5;
+  color: #b30000;
+  padding: 10px 14px;
+  border-radius: 8px;
+  margin-top: 16px;
+  border-left: 4px solid #d32f2f;
+  font-weight: 500;
+}
+
+/* =============================
+   Output Box
+   ============================= */
+.output-box {
+  background: #f6f8fb;
+  border-radius: 10px;
+  padding: 16px;
+  margin-top: 24px;
+  border: 1px solid #e0e4f0;
+}
+
+.output-box h3 {
+  color: #2d4ef7;
+  margin-bottom: 10px;
+}
+
+.output-box pre {
+  font-size: 0.95rem;
+  color: #333;
+  font-family: "Courier New", monospace;
+  white-space: pre-wrap;
+  word-wrap: break-word;
+}
+
+/* =============================
+   Responsive Design
+   ============================= */
+
+/* For tablets */
+@media (max-width: 768px) {
+  .ai-container {
+    max-width: 90%;
+    padding: 20px;
+  }
+
+  .ai-container h2 {
+    font-size: 1.6rem;
+  }
+
+  textarea {
+    font-size: 0.95rem;
+  }
+
+  #ll {
+    font-size: 1rem;
+  }
+}
+
+/* For mobile phones */
+@media (max-width: 480px) {
+  .ai-container {
+    margin: 20px auto;
+    padding: 16px;
+    border-radius: 10px;
+  }
+
+  .ai-container h2 {
+    font-size: 1.4rem;
+    margin-bottom: 16px;
+  }
+
+  .file-label {
+    font-size: 0.9rem;
+    padding: 16px;
+  }
+
+  .company-select select,
+  textarea {
+    font-size: 0.9rem;
+    padding: 10px;
+  }
+
+  #ll {
+    padding: 10px;
+    font-size: 0.95rem;
+  }
+
+  .output-box pre {
+    font-size: 0.85rem;
+  }
+}

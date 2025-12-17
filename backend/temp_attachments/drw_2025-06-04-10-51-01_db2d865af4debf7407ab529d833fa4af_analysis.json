@@ -1,0 +1,37 @@
+{
+  "bid_no": "1032644/2024/SEC -PHMM -TNK",
+  "start_date": null,
+  "end_date": null,
+  "bid_type": "other",
+  "items": [],
+  "total_quantity": null,
+  "turnover_req": {
+    "last_3_years": null,
+    "ITR": "not specified",
+    "other": "not specified"
+  },
+  "experience_req": {
+    "amount": null,
+    "basis": null,
+    "details": "not specified"
+  },
+  "major_docs": [],
+  "undertakings": [],
+  "exemptions": [],
+  "buyer_terms": [],
+  "eligibility_criteria": "not specified",
+  "document_submission_req": "not specified",
+  "tender_dates": {
+    "pre_bid_meeting": null,
+    "clarification_end": null,
+    "other": "not specified"
+  },
+  "emd_or_fee": {
+    "emd_amount": null,
+    "tender_fee": null,
+    "exemptions": "not specified"
+  },
+  "important_terms": [],
+  "full_text_summary": "The bid document is limited in detail, lacking specific information on various requirements including item details, turnover, experience, and submission procedures. Additional information is necessary to fully understand the bid.",
+  "attached_documents": []
+}

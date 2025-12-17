@@ -1,0 +1,116 @@
+{
+  "bid_no": null,
+  "start_date": null,
+  "end_date": null,
+  "bid_type": null,
+  "items": [
+    {
+      "name": "M.S. Pipes to ISI marked I.S. 1239 'C' class",
+      "type_of_work": "Supply",
+      "quantity": "70 + 190 + 1600",
+      "specs": "Including all fitting like anchor, fastner, bends, elbow, toes, coupling flanze, paint-primer etc. with welding work"
+    },
+    {
+      "name": "Air release valve 25 mm dia",
+      "type_of_work": "Supply",
+      "quantity": 6,
+      "specs": null
+    },
+    {
+      "name": "Pressure Gauges with gun metal / brass valves and siphon",
+      "type_of_work": "Supply",
+      "quantity": 29,
+      "specs": "Complete with valves and siphon"
+    },
+    {
+      "name": "Butterfly Valve",
+      "type_of_work": "Supply",
+      "quantity": "29 + 8 + 10",
+      "specs": "Including necessary companion flanges, bolts and nuts"
+    },
+    {
+      "name": "Double Hose Box MS - Wall mounting type",
+      "type_of_work": "Supply",
+      "quantity": 29,
+      "specs": "750mm X 600mm X 250mm size with glass covered double door with lock and key arrangements"
+    },
+    {
+      "name": "RRL Hose Pipe 63mm dia 15 mtr. long",
+      "type_of_work": "Supply",
+      "quantity": 54,
+      "specs": "Rubberized fabric lined, ISI Marked IS: 636:88 including Delivery Hose coupling male & female ss 2.5\"(63mm), instantaneous 63mm X 63mm size & SS Binding"
+    },
+    {
+      "name": "Standard Short size SS Branch pipe with SS nozzle",
+      "type_of_work": "Supply",
+      "quantity": 29,
+      "specs": "20mm nominal bore outlet with standard instantaneous type 63mm dia coupling"
+    },
+    {
+      "name": "Single Headed Oblique Type SS Fire Hydrant Valve",
+      "type_of_work": "Supply",
+      "quantity": 29,
+      "specs": "2.5\" (63mm), 80mm N.B. Flanged inlet, with 63mm Female inst. ISI Marked. Outlet with Blank Cap and Chain"
+    },
+    {
+      "name": "First aid fire hose reel",
+      "type_of_work": "Supply, installation, testing and commissioning",
+      "quantity": 10,
+      "specs": "20 mm dia 30 mtr. long reinforced rubber tubing conforming to IS: 444 Type II/ thermoplastic reinforced hose reel tubing conforming to IS :12585 Type with Shuttoff Nozzle Gunmetal & Hose Drum"
+    },
+    {
+      "name": "Ball Valve Cast Iron 25 mm dia",
+      "type_of_work": "Supply",
+      "quantity": 14,
+      "specs": "As required"
+    },
+    {
+      "name": "Wrapping coating underground pipe",
+      "type_of_work": "Supply",
+      "quantity": 125,
+      "specs": null
+    },
+    {
+      "name": "Material for making of Concrete block",
+      "type_of_work": "Supply",
+      "quantity": 600,
+      "specs": "For holding of 150mm pipeline including c-clap, anchor bolt etc (size 1.00Lx1.00Wx2.00H foot)"
+    },
+    {
+      "name": "250mm dia Hume NP3 RCC pipe with collars",
+      "type_of_work": "Supply",
+      "quantity": 10,
+      "specs": "For road crossing"
+    }
+  ],
+  "total_quantity": null,
+  "turnover_req": {
+    "last_3_years": null,
+    "ITR": null,
+    "other": null
+  },
+  "experience_req": {
+    "amount": null,
+    "basis": null,
+    "details": null
+  },
+  "major_docs": [],
+  "undertakings": [],
+  "exemptions": [],
+  "buyer_terms": [],
+  "eligibility_criteria": null,
+  "document_submission_req": null,
+  "tender_dates": {
+    "pre_bid_meeting": null,
+    "clarification_end": null,
+    "other": null
+  },
+  "emd_or_fee": {
+    "emd_amount": null,
+    "tender_fee": null,
+    "exemptions": null
+  },
+  "important_terms": [],
+  "full_text_summary": "The tender document outlines the supply and installation of fire safety equipment including various sizes of M.S. pipes, valves, hoses, and fittings necessary for a hydrant system. It includes specific details such as the requirement for ISI marked products, dimensions, and materials used for various components. No detailed financial, experience, or document submission requirements are mentioned in the provided text, nor are bidding dates or fees specified. Additional missing details should be checked in the full tender documentation.",
+  "attached_documents": []
+}

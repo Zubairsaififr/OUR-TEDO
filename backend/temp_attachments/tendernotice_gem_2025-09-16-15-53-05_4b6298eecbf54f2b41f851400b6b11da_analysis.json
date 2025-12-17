@@ -1,0 +1,71 @@
+{
+  "bid_no": "HAL/LCA/MK1A-30199/2025",
+  "start_date": "2025-09-16",
+  "end_date": null,
+  "bid_type": "two_packet",
+  "items": [
+    {
+      "name": "items/service listed in the Price Schedule Sheet",
+      "type_of_work": "Supply",
+      "quantity": "Refer Annexure-C",
+      "specs": "Refer Annexure-A"
+    }
+  ],
+  "total_quantity": null,
+  "turnover_req": {
+    "last_3_years": null,
+    "ITR": "not specified",
+    "other": "Purchasing preference for Class-I Local Supplier"
+  },
+  "experience_req": {
+    "amount": null,
+    "basis": null,
+    "details": "Compliance with HAL’s Technical Specifications / Scope of Service"
+  },
+  "major_docs": [
+    "Deviation Statement (Appendix-1)",
+    "Self-Certification for Minimum Local Content (Appendix-3)",
+    "Land Border Sharing declaration certificate (Appendix-5)",
+    "MSE – Udyam Registration (for MSE Bidders)",
+    "DPIIT certificate (for Startup Vendors)"
+  ],
+  "undertakings": [],
+  "exemptions": [
+    "Purchase Preference for MSE",
+    "DPIIT certified Startups"
+  ],
+  "buyer_terms": [
+    "Submission of bid through GeM portal only",
+    "Bid not accepted via Fax / Email",
+    "No agent appointed by HAL for procurement"
+  ],
+  "eligibility_criteria": [
+    "Class-I & Class-II local suppliers/service providers",
+    "Fulfillment of Technical Specification / Scope of Service"
+  ],
+  "document_submission_req": "Bids to be submitted in English through GeM portal. Scanned image/PDF of Demand Draft or Wire Transfer for EMD, catalogues/brochures, and relevant product information to be included in the Technical Bid. Price Bid submitted separately if Two Bid system.",
+  "tender_dates": {
+    "pre_bid_meeting": null,
+    "clarification_end": null,
+    "other": "Tender closing and opening as per GeM Schedule"
+  },
+  "emd_or_fee": {
+    "emd_amount": "not specified",
+    "tender_fee": "not specified",
+    "exemptions": "not specified"
+  },
+  "important_terms": [
+    "The bids must comply with essential parameters or be rejected",
+    "Purchase Preference - Make in India (PPP-MII) for Class-I Local Supplier",
+    "Restrictions on procurement from countries with shared land border with India",
+    "Technical Bid must exclude pricing"
+  ],
+  "full_text_summary": "The bid invitation by LCA Tejas Division, HAL, requests submission of tenders through GeM using a two-bid system, with required compliance to technical specifications provided in various annexures. Bids are favored from Class-I and Class-II local suppliers due to Make in India policies and are subject to essential criteria compliance. Notably, there's a requirement for declaration for content and border-sharing nations with specific document submissions outlined, including technical and commercial bid separation. HAL underscores no agent involvement in tendering, rejecting bids via email or fax, to mitigate against fraudulent claims of representation.",
+  "attached_documents": [
+    {
+      "url": "mailto:amaravathi@hal-india.co.in",
+      "analysis": "Non-PDF attachment",
+      "ext": "in"
+    }
+  ]
+}

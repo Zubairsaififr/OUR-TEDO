@@ -1,0 +1,64 @@
+{
+  "bid_no": null,
+  "start_date": null,
+  "end_date": null,
+  "bid_type": "two_packet",
+  "items": [
+    {
+      "name": "Aircraft Parts/ Avionic Items/ Accessories etc",
+      "type_of_work": "Supply",
+      "quantity": "multiple items",
+      "specs": null
+    }
+  ],
+  "total_quantity": null,
+  "turnover_req": {
+    "last_3_years": null,
+    "ITR": "not mentioned",
+    "other": "none specified"
+  },
+  "experience_req": {
+    "amount": null,
+    "basis": null,
+    "details": "none specified"
+  },
+  "major_docs": [
+    "PAN",
+    "GST",
+    "OEM certificate for country of origin"
+  ],
+  "undertakings": [
+    "Self Certification for Minimum Local Content",
+    "Declaration Certificate for Procurement"
+  ],
+  "exemptions": [
+    "MSME waiver under certain conditions",
+    "Purchase Preference Policy conditions"
+  ],
+  "buyer_terms": [
+    "Uphold all commercial terms unless deviations listed",
+    "Deviations must be justified"
+  ],
+  "eligibility_criteria": "Any bidder from a country sharing a land border with India must be registered with Competent Authority",
+  "document_submission_req": "Upload deviation statement with technical bid, submit self-certifications for local content",
+  "tender_dates": {
+    "pre_bid_meeting": null,
+    "clarification_end": null,
+    "other": "Declaration certifications with ongoing tenders"
+  },
+  "emd_or_fee": {
+    "emd_amount": null,
+    "tender_fee": null,
+    "exemptions": "MSMEs may have some exemptions"
+  },
+  "important_terms": [
+    "Deviation Statement to be filled by Tenderer",
+    "Margin of Purchase Preference up to 20%",
+    "License fees/royalties paid out of India excluded from local content",
+    "Contracts above INR 10 Crore require certified local content",
+    "Penalties for false local content declaration",
+    "Reciprocity clause in Public Procurement Order 2017"
+  ],
+  "full_text_summary": "The document outlines terms for participating in a tender by HAL, emphasizing the importance of compliance with commercial and local content requirements. Key details include the necessity for a deviation statement, adherence to a two-packet bidding system, and conformance to purchase preference policies. Bidders from countries sharing a land border with India need to be registered with the Competent Authority, and local content certifications are mandatory. Significant penalizations apply for false declarations, and there are specific provisions for MSMEs under the divisible goods category.",
+  "attached_documents": []
+}

@@ -1,0 +1,72 @@
+.quotes-containerk {
+  text-align: center;
+  background: #e6f9f2;
+  padding: 50px 20px;
+  border-radius: 8px;
+  width: 100%;
+  margin: 0 auto;
+}
+
+.quotes-containerk h1 {
+  color: #003366;
+  font-size: 28px;
+  margin-bottom: 10px;
+}
+
+.quotes-containerk p {
+  color: #555;
+  font-size: 16px;
+  margin-bottom: 30px;
+}
+
+.quotes-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+  gap: 15px;
+  margin-bottom: 30px;
+}
+
+.quote-cardk {
+  display: flex;
+  align-items: center;
+  background: white;
+  padding: 12px 15px;
+  border-radius: 6px;
+  font-size: 15px;
+  color: #333;
+  box-shadow: 0 2px 30px rgba(0, 0, 0, 0.08);
+  cursor: pointer;
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.quote-cardk:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+}
+
+.quote-cardk .icon {
+  color: #2ecc71;
+  margin-right: 10px;
+  font-size: 18px;
+}
+
+.full-width {
+  grid-column: 1 / -1;
+  justify-content: center;
+}
+
+.cta-btn {
+  background: #007bff;
+  color: white;
+  border: none;
+  padding: 12px 28px;
+  font-size: 16px;
+  font-weight: 600;
+  border-radius: 6px;
+  cursor: pointer;
+  transition: background 0.3s ease;
+}
+
+.cta-btn:hover {
+  background: #0056b3;
+}

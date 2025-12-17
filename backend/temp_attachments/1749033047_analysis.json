@@ -1,0 +1,47 @@
+{
+  "bid_no": "1081505/2024/SEC -PHMM -TNK",
+  "start_date": null,
+  "end_date": null,
+  "bid_type": null,
+  "items": [
+    {
+      "name": "Installation, Testing & Commissioning of Hydrant System",
+      "type_of_work": "Civil",
+      "quantity": "various locations",
+      "specs": "Installation of hydrant system at multiple locations including administrative building, central store, hospital, diesel power house, gas agency, workshop, guest house, switchyard, CISF post house gate, and school. Laying of 150mm pipe, fixing with U-clamp, aligning hydrant points, and connecting to three different water sources."
+    }
+  ],
+  "total_quantity": null,
+  "turnover_req": {
+    "last_3_years": null,
+    "ITR": "not specified",
+    "other": "not specified"
+  },
+  "experience_req": {
+    "amount": null,
+    "basis": null,
+    "details": "Not specified in the document."
+  },
+  "major_docs": [],
+  "undertakings": [],
+  "exemptions": [],
+  "buyer_terms": [],
+  "eligibility_criteria": "Not specified in the document.",
+  "document_submission_req": "Not specified in the document.",
+  "tender_dates": {
+    "pre_bid_meeting": null,
+    "clarification_end": null,
+    "other": "Not specified"
+  },
+  "emd_or_fee": {
+    "emd_amount": null,
+    "tender_fee": null,
+    "exemptions": "Not specified"
+  },
+  "important_terms": [
+    "All work required for satisfactory operations not mentioned is included in contractor scope including cost of man & material.",
+    "Hydrant points must be installed at equal distances for symmetry."
+  ],
+  "full_text_summary": "The bid is for the installation, testing, and commissioning of a fire hydrant system at multiple locations within the Tanakpur Power Station. Work includes laying and securing a 150mm pipeline with U-clamps and concrete bases, ensuring hydrant points are symmetrical, and connecting water supply from three specified sources. Full scope includes any unspecified work necessary for operational success.",
+  "attached_documents": []
+}
